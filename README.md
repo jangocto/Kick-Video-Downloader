@@ -17,6 +17,6 @@ sudo apt-get install ffmpeg
 # Usage
 ``` bash
 git clone https://github.com/jangocto/Kick-Video-Downloader.git
-pip -r requirements.txt
+pip install -r requirements.txt
 python3 example.py
 ```
